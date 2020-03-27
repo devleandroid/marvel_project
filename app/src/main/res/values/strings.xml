@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Marvel Pro</string>
+    <string name="msgLoad">"Carregando ... "</string>
+</resources>
